@@ -1,0 +1,25 @@
+.wow{
+    background-image: url( laptop.avif);
+    background-repeat: no-repeat;
+}
+.ho{
+     background-color:fuchsia;
+    text-align: center;
+}
+.ji{
+    text-align: center;
+    margin-left: 50px;
+    font-size: larger;
+}
+.hl{
+    text-align: center;
+    color:purple;
+}
+.josh{
+     border: 2px purple solid ;
+     border-radius: 10%;
+}
+
+.icon{
+    float: right;
+}
